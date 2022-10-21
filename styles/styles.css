@@ -5,5 +5,17 @@
 }
 
 header{
-    
+    background-color: aquamarine;
+    height: 10vh;
+    display: flex;
+    justify-content: space-evenly;
+}
+main{
+    background-color: aqua;
+    height: 88vh;
+
+}
+footer{
+    background-color: yellow;
+    height: 10vh;
 }
