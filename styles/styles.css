@@ -13,9 +13,15 @@ header{
 main{
     background-color: aqua;
     height: 88vh;
-
+    display: flex;
 }
 footer{
     background-color: yellow;
     height: 10vh;
+}
+article{
+    border: 1px solid red;
+    background-color: blue;
+    width:  25%;
+    text-align: center;
 }
